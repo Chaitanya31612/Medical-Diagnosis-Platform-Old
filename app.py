@@ -31,7 +31,7 @@ st.set_page_config(
     menu_items=None
 )
 
-model_path = r"Medical-Diagnosis-Platform/Models/Pneumonia Onnx Model/Pneumonia_Onnx_Model.onnx"
+model_path = r"./Models/Pneumonia Onnx Model/Pneumonia_Onnx_Model.onnx"
 
 
 st.title("Medical Diagnosis Platform")
